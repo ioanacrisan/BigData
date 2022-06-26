@@ -30,7 +30,7 @@ View(PreturiCase)
 
 #vizualizare tipuri de date ale coloanelor
 str(PreturiCase)
-
+ 
 #transformarea in factor a coloanei oras
 PreturiCase <- PreturiCase %>%
   mutate(
